@@ -5,3 +5,6 @@ payload:
   - DOMAIN,montaportal.nl
   - DOMAIN-SUFFIX,montaportal.nl
   - DOMAIN-SUFFIX,docstransfer.com
+  - DOMAIN-SUFFIX,vivox.com
+  - DOMAIN-SUFFIX,vivox.com.cdn.cloudflare.net
+  - DOMAIN-KEYWORD,vivox
