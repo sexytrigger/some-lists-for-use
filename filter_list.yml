@@ -4,6 +4,8 @@ payload:
   - DOMAIN-KEYWORD,theaudiobookbay
   - DOMAIN,montaportal.nl
   - DOMAIN-SUFFIX,montaportal.nl
+  - DOMAIN-KEYWORD,montaportal.nl
+  - DOMAIN-KEYWORD,monta.nl
   - DOMAIN-SUFFIX,docstransfer.com
   - DOMAIN-SUFFIX,vivox.com
   - DOMAIN-SUFFIX,vivox.com.cdn.cloudflare.net
