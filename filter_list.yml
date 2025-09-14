@@ -10,4 +10,4 @@ payload:
   - DOMAIN-SUFFIX,vivox.com
   - DOMAIN-SUFFIX,vivox.com.cdn.cloudflare.net
   - DOMAIN-KEYWORD,vivox
-  - DOMAIN-SUFFIX,doctransfer.com
+  - DOMAIN-KEYWORD,doctransfer
