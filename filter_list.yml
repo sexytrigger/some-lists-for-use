@@ -8,3 +8,5 @@ payload:
   - DOMAIN-KEYWORD,monta.nl
   - DOMAIN-SUFFIX,docstransfer.com
   - DOMAIN-SUFFIX,centraltransport.com
+  - DOMAIN-KEYWORD,centraltransport.com
+  - DOMAIN,centraltransport.com
