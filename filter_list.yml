@@ -11,7 +11,7 @@ payload:
   - DOMAIN-KEYWORD,centraltransport.com
   - DOMAIN,centraltransport.com
   - DOMAIN-KEYWORD,sellercentral
-  - DOMAIN,amazon.de
-  - DOMAIN,amazon.es
-  - DOMAIN,amazon.fr
-  - DOMAIN,amazon.it
+  - DOMAIN-SUFFIX,amazon.de
+  - DOMAIN-SUFFIX,amazon.es
+  - DOMAIN-SUFFIX,amazon.fr
+  - DOMAIN-SUFFIX,amazon.it
