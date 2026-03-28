@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-KEYWORD,claude
   - DOMAIN-KEYWORD,anthropic
+  - DOMAIN-KEYWORD,lottiefiles
