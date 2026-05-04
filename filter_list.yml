@@ -20,3 +20,4 @@ payload:
   - DOMAIN-KEYWORD,claude
   - DOMAIN-KEYWORD,anthropic
   - DOMAIN-KEYWORD,lottiefiles
+  - DOMAIN-SUFFIX,icloud.com
