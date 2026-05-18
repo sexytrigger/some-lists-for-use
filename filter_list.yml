@@ -1,23 +1,56 @@
 payload:
-  - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-KEYWORD,audiobookbay
-  - DOMAIN-KEYWORD,theaudiobookbay
-  - DOMAIN,montaportal.nl
-  - DOMAIN-SUFFIX,montaportal.nl
-  - DOMAIN-KEYWORD,montaportal.nl
-  - DOMAIN-KEYWORD,monta.nl
-  - DOMAIN-SUFFIX,docstransfer.com
-  - DOMAIN-SUFFIX,centraltransport.com
-  - DOMAIN-KEYWORD,centraltransport.com
-  - DOMAIN,centraltransport.com
-  - DOMAIN-KEYWORD,sellercentral
-  - DOMAIN-SUFFIX,amazon.de
-  - DOMAIN-SUFFIX,amazon.es
-  - DOMAIN-SUFFIX,amazon.fr
-  - DOMAIN-SUFFIX,amazon.it
+  # ── AIs ──────────────────────────────────────────────────
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-KEYWORD,claude
   - DOMAIN-KEYWORD,anthropic
+
+  # ── Контент 18+ ──────────────────────────────────────────
+  - DOMAIN-SUFFIX,pornhub.com
+  
+  # ── РАБОТА ───────────────────────────────────────────────
+  # ── Monta ───────────────────────────────────
+  - DOMAIN,montaportal.nl
+  - DOMAIN-SUFFIX,montaportal.nl
+  - DOMAIN-KEYWORD,montaportal.nl
+  - DOMAIN-KEYWORD,monta.nl
+  # ── Central Transport ───────────────────────
+  - DOMAIN-SUFFIX,centraltransport.com
+  - DOMAIN-KEYWORD,centraltransport.com
+  - DOMAIN,centraltransport.com
+  # ── Amazon: Seller / Vendor Central ─────────
+  - DOMAIN-SUFFIX,sellercentral.amazon.com
+  - DOMAIN-SUFFIX,sellercentral.amazon.de
+  - DOMAIN-SUFFIX,sellercentral.amazon.es
+  - DOMAIN-SUFFIX,sellercentral.amazon.fr
+  - DOMAIN-SUFFIX,sellercentral.amazon.it
+  - DOMAIN-SUFFIX,vendorcentral.amazon.com
+  # ── Amazon: основные домены ─────────────────
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,amazon.co.uk
+  - DOMAIN-SUFFIX,amazon.de
+  - DOMAIN-SUFFIX,amazon.fr
+  - DOMAIN-SUFFIX,amazon.es
+  - DOMAIN-SUFFIX,amazon.it
+  - DOMAIN-SUFFIX,amazon.nl
+  - DOMAIN-SUFFIX,amazon.pl
+  - DOMAIN-SUFFIX,amazon.com.tr
+  # ── Amazon: инфраструктура (критично!) ──────
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,amazontrust.com
+  # ── Amazon: медиа и CDN ─────────────────────
+  - DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-SUFFIX,ssl-images-amazon.com
+  - DOMAIN-SUFFIX,images-amazon.com
+  - DOMAIN-SUFFIX,amazon-adsystem.com
+  
+  # ── ПРОЧЕЕ ─────────────────────────────────────────
+  - DOMAIN-KEYWORD,audiobookbay
+  - DOMAIN-KEYWORD,theaudiobookbay
+  - DOMAIN-SUFFIX,docstransfer.com
   - DOMAIN-KEYWORD,lottiefiles
+  
+  # ── Подписки ─────────────────────────────────────────────────────────────
+  # ── iCloud ──────────────────────────────────
   - DOMAIN-SUFFIX,icloud.com
