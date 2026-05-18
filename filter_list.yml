@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,sellercentral.amazon.it
   - DOMAIN-SUFFIX,vendorcentral.amazon.com
   # ── Amazon: основные домены ─────────────────
+  - DOMAIN-KEYWORD,amazon
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,amazon.co.uk
   - DOMAIN-SUFFIX,amazon.de
